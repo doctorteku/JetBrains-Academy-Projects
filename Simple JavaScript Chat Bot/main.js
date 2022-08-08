@@ -40,10 +40,9 @@ function count() {
 	}
 }
 
-// Ask The User A Multiple Choice Question And Request An Answer Until They Provide The One
+// Ask The User A Multiple Choice Question And Request An Answer Until The Answer Is Correct
 function test() {
 	console.log("Let's test your programming knowledge.");
-	// write your code here
 	console.log("Why do we use methods?");
 	console.log("1. To repeat a statement multiple times.");
 	console.log("2. To decompose a program into several small subroutines.");
